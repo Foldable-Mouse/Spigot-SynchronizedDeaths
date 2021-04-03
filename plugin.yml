@@ -1,0 +1,5 @@
+name: SyncDeaths
+version: 1.0
+api-version: 1.16
+main: foldable.technique.syncdeath.Main
+description: When one player dies, every player dies. 
